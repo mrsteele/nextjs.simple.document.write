@@ -1,2 +1,2 @@
-document.write('<div id="example" style="background-color: green; color: white;"></div>')
-document.querySelector('#example').innerHTML = '<div>Loading with raw script tag - WORKS!</div>'
+document.write('<span id="example" style="background-color: green; color: white;"></span>')
+document.querySelector('#example').innerHTML = 'Worked!'
